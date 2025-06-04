@@ -1,2 +1,3 @@
 rootProject.name = 'eBooks_rental_automated_tests'
+include 'eBooks_rental_login_tests'
 
